@@ -1,0 +1,30 @@
+[{
+        "status": "AUTHORIZED",
+        "elements": [{
+            "DoctorID": "D01",
+            "Folio": "180821-9",
+            "Patient": "DURAN",
+            "CStudy": "QUIMICA SANGUINEA 27",
+            "AuthorizationDate": "1536616006",
+            "Commission": 40.26
+        }]
+    }, {
+        "status": "PAID",
+        "elements": [{
+            "DoctorID": "D01",
+            "Folio": "180821-10",
+            "Patient": "RIQUELME",
+            "CStudy": "QUIMICA SANGUINEA 27",
+            "AuthorizationDate": "1536616006",
+            "PaymentDate": "1537479952",
+            "Commission": 40.26
+        }, {
+            "DoctorID": "D01",
+            "Folio": "180821-10",
+            "Patient": "RAFERNANDEZ",
+            "CStudy": "QUIMICA SANGUINEA 27",
+            "AuthorizationDate": "1536616006",
+            "PaymentDate": "1537479952",
+            "Commission": 40.26
+        }]
+    }]
